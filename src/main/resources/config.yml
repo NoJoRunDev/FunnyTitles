@@ -1,0 +1,6 @@
+titles:
+  test:
+    display: "Test"
+    cost: 100
+    suffix: "&7Test"
+    show: true

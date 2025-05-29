@@ -1,0 +1,17 @@
+help: |
+  &d/titles give <Игрок> <Титул> &7- выдать титул игроку
+  &d/titles remove <Игрок> <Титул> &7- удалить титул игроку
+  &d/titles remove <Игрок> &7- удалить все титулы игрока
+  &d/titles reload &7- перезагрузить конфиги плагина
+no-permission: "&cУ вас нет разрешения!"
+config-reload: "&aКонфиги перезагружены!"
+player-not-found: "&cИгрок {player} не найден!"
+titul-not-found: "&cТитул не найден!"
+titul-gived: "&aТитул &e{titul} &aвыдан игроку &e{player}&a!"
+titul-gived-player: "&aВы получили титул: &e{titul}&a!"
+titul-removed: "&aВы убрали свой титул!"
+titul-has-choosed: "&cЭтот титул уже выбран!"
+titul-choosed: "&aВы выбрали титул: &e{titul}"
+titul-deleted: "&cВаш титул &e{titul} &cбыл удален!"
+all-titul-deleted: "&cВсе ваши титулы были удалены!"
+not-enough-points: "&cУ вас недостаточно поинтов для покупки этого титула!"

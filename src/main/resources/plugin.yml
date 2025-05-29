@@ -1,0 +1,13 @@
+name: FunnyTitles
+version: '${project.version}'
+main: org.nojorundev.funnytitles.FunnyTitles
+api-version: '1.16'
+authors: [NoJoRunDev]
+description: Плагин на титулы для сервера FunnyTime
+depend: [LuckPerms, PlayerPoints]
+libraries:
+  - org.xerial:sqlite-jdbc:3.36.0.3
+commands:
+  titles:
+    description: Открывает меню титулов.
+    aliases: [suffix, titul]
